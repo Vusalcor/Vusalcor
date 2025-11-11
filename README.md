@@ -1,7 +1,7 @@
 ## My name is Viktoriia. 
 
 🎓 I am a graduate with a Bachelor's degree in Information Technology from Curtin University. <br/>
-👾 My personal projects are: an indie game ["The Maze: Treasure Hunters"](https://store.steampowered.com/app/3670100/The_Maze_Treasure_Hunters/), website ["Unihub+"](https://github.com/AcePhoelo/UnihubCapstone). <br/>
+👾 My projects are: an indie game ["The Maze: Treasure Hunters"](https://store.steampowered.com/app/3670100/The_Maze_Treasure_Hunters/), website ["Unihub+"](https://github.com/AcePhoelo/UnihubCapstone). <br/>
 ✍🏻 Other links: .... <br/>
 
 
