@@ -1,9 +1,8 @@
 ## My name is Viktoriia. 
 
-🎓 I am completing a Bachelor of Information Technology at Curtin University. <br/>
-👾 My personal project is an indie game titled "The Maze: Treasure Hunters", developed in C# with Unity. <br/>
-✍🏻 I'm also working on a capstone project  - website "Unihub+" for university clubs and events - as a frontend developer (React.js). <br/>
-🌐 My visual work is available on [Instagram](https://www.instagram.com/viktoriia.games?igsh=M2F4ODR6cmt0ZzAw&utm_source=qr). <br/>
+🎓 I am a graduate with a Bachelor's degree in Information Technology from Curtin University. <br/>
+👾 My personal projects are: an indie game ["The Maze: Treasure Hunters"](https://store.steampowered.com/app/3670100/The_Maze_Treasure_Hunters/), website "Unihub+" . <br/>
+✍🏻 Other links: .... <br/>
 
 
 # 💻 Tech Stack:
